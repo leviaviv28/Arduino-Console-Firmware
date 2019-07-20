@@ -14,7 +14,7 @@ The purpose of this console is to allow myself to develop many different games f
 <h2>Current Features</h2>
 Almost complete support for primitive graphics from the ADAFRUIT_gfx library.
 
-Library to facilitate communication between cartidges and console.
+<a href="https://github.com/leviaviv28/Arduino-Console-Interface"> Library to facilitate communication between cartidges and console. </a>
 
 <h2>What's still to do?</h2>
 I am in the proccess of creating a circuit board with just the ATMega1280 and other required componenets (Screen, buttons, etc.) to shrink the footprint of the console down to allow me to create a 3D-Printed case and make the console portable.
